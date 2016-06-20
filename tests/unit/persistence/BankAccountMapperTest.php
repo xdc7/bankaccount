@@ -2,7 +2,7 @@
 /**
  * @large
  */
-class BankAccountMapperTest extends PHPUnit_Extensions_Database_TestCase
+class PHPUnit_Extensions_Database_TestCase
 {
     protected $db;
     protected $mapper;
